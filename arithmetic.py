@@ -1,5 +1,6 @@
 def add(num1, num2):
-    return 10
+	""" Returns the sum of two numbers """
+    return num1 + num2
 
 def subtract(num1, num2):
     pass
