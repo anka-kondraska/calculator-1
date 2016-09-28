@@ -17,7 +17,9 @@ def multiply(num1, num2):
 
 
 def divide(num1, num2):
-    pass
+    """ Returns the quotient of the first argument divided by the second """
+
+    return float(num1) / num2
 
 
 def square(num1):
