@@ -17,13 +17,15 @@ def multiply(num1, num2):
 
 
 def divide(num1, num2):
-    """ Returns the quotient of the first argument divided by the second """
+    """ Returns the floating point quotient of the first argument divided by the second """
 
     return float(num1) / num2
 
 
 def square(num1):
-    pass
+    """ Returns the square of the argument """
+
+    return num1 * num1
 
 
 def cube(num1):
