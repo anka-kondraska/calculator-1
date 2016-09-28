@@ -35,7 +35,9 @@ def cube(num1):
 
 
 def power(num1, num2):
-    pass
+    """ Returns the result of raising the first input to the power of the second input """
+
+    return num1 ** num2
 
 
 def mod(num1, num2):
